@@ -1,6 +1,11 @@
+# Dia 1
+[Notion](https://efficient-sloth-d85.notion.site/Dia-1-Como-se-desenvolver-e-se-posicionar-na-lideran-a-e2dcc6d78ef641b2976ecb89fb657f28)
+
 # Palestra como ser lider
-Fernanda Vieira -> Palestrante
-Entre chaves -> Podcast
+Fernanda Vieira 
+
+[PDF](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/545eec68-6c4b-4af2-bb59-2853bac52d48/O_que__liderar.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220725%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220725T144950Z&X-Amz-Expires=86400&X-Amz-Signature=186f783ffd7d6c84bea1eda9f0cf0ae2c0fb0cfceb7d2b0b37f4dc5bd3a1de5e&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22O%2520que%2520%25C3%25A9%2520liderar.pdf%22&x-id=GetObject)
+[Podcast](https://open.spotify.com/show/1ub9YZKamdMKdKbLia4YrX)
 
 ## Dinamica 1
 - Startup que tem como principal negocio um produto que é vendido como serviços para outras empresas, ou seja, B2B
@@ -57,8 +62,10 @@ Entre chaves -> Podcast
 - Incentivo a momentos de aprendizados em grupo
 
 # Palestra arquetipos do lider técnico
-Eduardo Matos -> Palestrante
-Tech leadership Rocks -> Podcast
+Eduardo Matos
+
+[PDF](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/ea1f8105-47ec-40b7-a046-811e9cf18558/Os_4_arquetipos_de_lideres_de_Tecnologia.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220725%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220725T145234Z&X-Amz-Expires=86400&X-Amz-Signature=7d924689b9b9cd5e063ac3bf839838e01b3f4c8746a88e90e86aacacf71460e6&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Os%25204%2520arque%25CC%2581tipos%2520de%2520li%25CC%2581deres%2520de%2520Tecnologia.pdf%22&x-id=GetObject)
+[Podcast](https://techleadership.rocks/)
 
 *Ponto em comum em todos os lideres: Eles geram resultado.**
 
@@ -111,8 +118,9 @@ Processual: Criar um processo de refinamento das tarefas onde se involva o time 
 - Se auto conhecer ajuda a melhorar problemas e propor soluções 
 
 # Engajamento de pessoas
-Eduardo Matos -> Palestrante
-Tech Leadership Rocks -> Podcast
+Eduardo Matos
+
+[PDF](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/bd566e04-2fde-4007-8444-cac77a0b188b/O_que_voce_precisa_fazer_para_ter_uma_equipe_engajada.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220725%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220725T145529Z&X-Amz-Expires=86400&X-Amz-Signature=9f5326ec430c4b42587b91935cf956d007af20a8b3a281ddf767bcda9a3a1c52&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22O%2520que%2520voce%25CC%2582%2520precisa%2520fazer%2520para%2520ter%2520uma%2520equipe%2520engajada.pdf%22&x-id=GetObject)
 
 ### Porque engajar pessoas?
 - Ruim para resultados
@@ -172,8 +180,9 @@ Mudança de equipe deve ser feita de forma gradual e é uma coisa boa a ser feit
 Question= Se alguém quer mudar de cargo mas é necessário no cargo atual sendo impossibilitado de mudar, oque fazer nesse caso? R= Forme outra pessoa
 
 # Times comprometidos geram produtos de sucesso
-Lais Mendes -> Palestrante
-https://linkedin.com/in/laismendes-sa/
+Lais Mendes
+
+[Linkedin](https://linkedin.com/in/laismendes-sa/)
 
 ### Dores da gestão de produtos
 - Cultura de top down
@@ -211,9 +220,10 @@ https://linkedin.com/in/laismendes-sa/
 - Pessoas desenvolvedoras envolvidas no discovery
 
 # Usando padrões sensatos - Avançando rumo à liderança
-Simara Conceição -> Palestrante
-Dev na Thoughtworks
-Quero ser Dev -> Podcast e canal no youtube
+Simara Conceição
+
+[PDF](https://www.canva.com/design/DAFEWuXt-z0/6AIZDcU_OWhVQWEycrKFQQ/view?utm_content=DAFEWuXt-z0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+[Podcast](https://open.spotify.com/show/59vCz4TY6tPHXW26qJknh3)
 
 ### Competencias
 *mapeamento com honestidade*
@@ -283,3 +293,6 @@ Todas as coisas podem ser usadas no ambito pessoal (Pos Mortem por exemplo para 
 ### Observabilidade
 - Garantia que a aplicação é observável e suportada em prod
 - DOD garante logs, monitoramento e alertas em prod
+
+# Metodologias para construção de timesde técnologia de alto nível
+[PDF](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/243173b1-92ca-4ca3-9a47-488fbfe4fdbd/Assemble.pptx.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220725%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220725T150040Z&X-Amz-Expires=86400&X-Amz-Signature=870518a659c43734328faf2f62fc7af6896109bd6416e949eaa9ac36a9c69fa3&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Metodologias%2520e%2520pr%25C3%25A1ticas%2520para%2520constru%25C3%25A7%25C3%25A3o%2520de%2520times%2520de%2520tecnologia%2520de%2520alto%2520n%25C3%25ADvel.pdf%22&x-id=GetObject)

@@ -13,6 +13,7 @@
 
 # Oque um lider técnico deve ser preocupar na jornada do talento?
 Sergio Fiorotti - Head de engenharia matchbox
+
 [PDF](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/43b53f23-337b-455c-9a90-e6add2af472c/Jornada_do_Talento_-_Rocketseat_Assemble.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220724%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220724T140845Z&X-Amz-Expires=86400&X-Amz-Signature=c85104234bc8f3c4fea4e084806f8786f58dd571e45c67d22923058584da6669&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22O%2520que%2520um%2520l%25C3%25ADder%2520t%25C3%25A9cnico%2520deve%2520se%2520preocupar%2520na%2520Jornada%2520do%2520Talento.pdf%22&x-id=GetObject)
 [Linkedin](https://www.linkedin.com/in/sergio-fiorotti/)
 [Email](sbfiorotti@gmail.com)
@@ -61,14 +62,16 @@ Sergio Fiorotti - Head de engenharia matchbox
   - Esgotou todas as possibilidades
 
 # Midfullness no desenvolvimento da liderança
-[PDF](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/6abbadc5-ff1a-4711-a8cc-6dcc52c96f1a/Mindfulness__Assemble.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220724%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220724T163821Z&X-Amz-Expires=86400&X-Amz-Signature=8c6df0a28aaa6605a38dbbb07d4ddcb35006493bfcf9b92107591a576ebf891a&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Mindfulness%2520e%2520sa%25C3%25BAde%2520mental.pdf%22&x-id=GetObject)
 Alex Salgado
+
+[PDF](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/6abbadc5-ff1a-4711-a8cc-6dcc52c96f1a/Mindfulness__Assemble.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220724%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220724T163821Z&X-Amz-Expires=86400&X-Amz-Signature=8c6df0a28aaa6605a38dbbb07d4ddcb35006493bfcf9b92107591a576ebf891a&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Mindfulness%2520e%2520sa%25C3%25BAde%2520mental.pdf%22&x-id=GetObject)
 [Github](https://github.com/salgado)
 [Linkedin](https:www.linkedin.com/in/alex-salgado)
 [Comunidade](https://community.elastic.co)
-**ElasticSearch é OpenSource**
-**Seja sincronizado com o universo**
-**Estado de Flow**
+
+- **ElasticSearch é OpenSource**
+- **Seja sincronizado com o universo**
+- **Estado de Flow**
 
 ### Observabilidade
 - Como e quando você implementa a **observabilidade** de você mesmo?
@@ -103,8 +106,9 @@ Alex Salgado
   - Faça a meditação de body scan deitado (Sensacional pra insonia)
   
 # Como dar feedback técnico e apoiar o crescimento de devs do meu time
-[PDF](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/20a66dba-321e-4c61-8405-fd988b971b9f/Como_dar_feedback_tcnico_e_apoiar_o_crescimento_de_devs_do_meu_time_%281%29.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220724%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220724T175738Z&X-Amz-Expires=86400&X-Amz-Signature=ae257413bbf42e77636f99cfd263c54e4df97686f2d1e626882c3f9e880f4862&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Como%2520dar%2520feedback%2520t%25C3%25A9cnico%2520e%2520apoiar%2520o%2520crescimento%2520de%2520DEVs%2520do%2520meu%2520time.pdf%22&x-id=GetObject)
 Jakeliny Gracielly
+
+[PDF](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/20a66dba-321e-4c61-8405-fd988b971b9f/Como_dar_feedback_tcnico_e_apoiar_o_crescimento_de_devs_do_meu_time_%281%29.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220724%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220724T175738Z&X-Amz-Expires=86400&X-Amz-Signature=ae257413bbf42e77636f99cfd263c54e4df97686f2d1e626882c3f9e880f4862&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Como%2520dar%2520feedback%2520t%25C3%25A9cnico%2520e%2520apoiar%2520o%2520crescimento%2520de%2520DEVs%2520do%2520meu%2520time.pdf%22&x-id=GetObject)
 [Site](https://jakeliny.com.br/)
 
 ### Feedback
@@ -119,11 +123,12 @@ Feedback ideial é seguido de acompanhamento constante.
 ### Feedback 360
 - Estimular o feedback entre pares; Estimular a equipe a dar feedback entre eles sem a presença do gestor de forma não agressiva
 
+**Egoismo saudável**-> Pensar primeiro em si mesmo afim de ajudar os outros em um segundo momento
+
 > **Janela de Johari**
 >> Tabela onde se mostra a diferença da forma em que nos vemos e como as outras pessoas nos vêem
 >> A forma que nos vemos é uma projeção da forma que **achamos** que as outras pessoas nos vêem
 
-**Egoismo saudável**-> Pensar primeiro em si mesmo afim de ajudar os outros em um segundo momento
 
 # Equilíbrio entre velocidade e qualidade, mentalidade de MVP sem abrir mão do refactoring
 [PDF](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/a240e524-687a-49b9-a261-c0595a1b7550/mayk-assemble.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220724%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220724T191502Z&X-Amz-Expires=86400&X-Amz-Signature=000a5b7574f1671362048167d6ac27790912c33cc102812af6ed3bb4af853aed&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Equil%25C3%25ADbrio%2520entre%2520velocidade%2520e%2520qualidade%252C%2520mentalidade%2520de%2520MVP%2520sem%2520abrir%2520m%25C3%25A3o%2520do%2520refactoring.pdf%22&x-id=GetObject)
